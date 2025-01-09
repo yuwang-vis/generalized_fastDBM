@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+torch==2.1.2 --index-url https://download.pytorch.org/whl/cu118
+torchvision==0.16.2 --index-url https://download.pytorch.org/whl/cu118
+torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
+
+# General Python libraries
+numpy==1.23.5
+matplotlib==3.7.1
+scikit-learn==1.3.2
+umap-learn==0.5.3
+scipy
+tqdm==4.62.2
+
