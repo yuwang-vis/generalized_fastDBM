@@ -13,7 +13,7 @@
 
   <h2 align="center"> Submitted to <em>Computers & Graphics</em></h2>
   <div align="center">
-    <img src="illustration.png", width="750">
+    <img src="illustration.png", width="680">
   </div>
 
 

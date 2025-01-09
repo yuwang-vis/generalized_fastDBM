@@ -11,4 +11,4 @@ scikit-learn==1.3.2
 umap-learn==0.5.3
 scipy
 tqdm==4.62.2
-
+numba_progress
