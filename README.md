@@ -53,9 +53,10 @@ run `demo.ipynb` to check the exmaples.
 
 ```bibtex
 @misc{softwareGfastDBM,
-	title = {Generalized FastDBM implementation source code},
+	title = {Generalized {FastDBM} implementation source code},
 	url = {https://github.com/yuwang-vis/generalized_fastDBM},
-	author = {{The Authors}},
+	author = {Wang, Yu and Grosu, Cristian and Telea, Alexandru},
 	year = {2025},
 }
+
 ```
