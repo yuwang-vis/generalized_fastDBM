@@ -11,7 +11,7 @@
 
   <h3 align="center"> Extented version of our <a href="https://diglib.eg.org/items/1e954798-62b2-4c9d-b44f-a511b4291118"><em>EuroVA</em> paper</a></h3>
 
-  <h2 align="center"> Submitted to <em>Computers & Graphics</em></h2>
+  <h2 align="center"> Published on <em>Computers & Graphics</em></h2>
   <div align="center">
     <img src="illustration.png", width="680">
   </div>
