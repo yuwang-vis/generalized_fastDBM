@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this implementation, please cite the associated Computers & Graphics paper."
+title: "Generalized FastDBM: Fast decision maps for explaining classification models"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Yu
+  - family-names: Grosu
+    given-names: Cristian
+  - family-names: Telea
+    given-names: Alexandru
+repository-code: "https://github.com/wuyuyu1024/generalized_fastDBM"
+preferred-citation:
+  type: article
+  title: "Computing Fast and Accurate Maps for Explaining Classification Models"
+  authors:
+    - family-names: Wang
+      given-names: Yu
+    - family-names: Grosu
+      given-names: Cristian
+    - family-names: Telea
+      given-names: Alexandru
+  journal: "Computers & Graphics"
+  year: 2025
+  doi: "10.1016/j.cag.2025.104230"

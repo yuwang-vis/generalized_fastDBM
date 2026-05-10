@@ -57,7 +57,7 @@ The notebook demonstrates the generalized FastDBM workflow and should be the fir
 
 ## Citation
 
-If you use this implementation, please cite:
+GitHub can read the repository citation metadata from [`CITATION.cff`](CITATION.cff). If you use this implementation, please cite:
 
 ```bibtex
 @misc{softwareGfastDBM,
